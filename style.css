@@ -1,0 +1,22 @@
+#App{
+    background-color: aqua;
+}
+#Game{
+    background-color: yellow;
+    height: 350px;
+}
+#Chatbot{
+    background-color: plum;
+}
+.line{
+    height: 6px;
+    background-color: red;
+    width: 100px;
+    margin: 8px auto;
+}
+body{
+    text-align: center;
+}
+a{
+    margin: 20px;
+}
